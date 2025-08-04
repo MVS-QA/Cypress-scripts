@@ -1,0 +1,2 @@
+# Cypress-scripts
+Автоскрипты
